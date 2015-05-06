@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignosZodiacales", "SignosZodiacales\SignosZodiacales.csproj", "{D0618621-C67C-4C88-87BC-C54A7391B6BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormSigno", "FormSigno\FormSigno.csproj", "{67CD05BD-09DE-4F5A-B616-CC7DC7F2D781}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D0618621-C67C-4C88-87BC-C54A7391B6BF} = {D0618621-C67C-4C88-87BC-C54A7391B6BF}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0618621-C67C-4C88-87BC-C54A7391B6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0618621-C67C-4C88-87BC-C54A7391B6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0618621-C67C-4C88-87BC-C54A7391B6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0618621-C67C-4C88-87BC-C54A7391B6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67CD05BD-09DE-4F5A-B616-CC7DC7F2D781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67CD05BD-09DE-4F5A-B616-CC7DC7F2D781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67CD05BD-09DE-4F5A-B616-CC7DC7F2D781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67CD05BD-09DE-4F5A-B616-CC7DC7F2D781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

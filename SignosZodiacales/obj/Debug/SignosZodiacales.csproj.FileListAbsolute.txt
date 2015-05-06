@@ -1,0 +1,5 @@
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\SignosZodiacales\SignosZodiacales\bin\SignosZodiacales.dll
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\SignosZodiacales\SignosZodiacales\bin\SignosZodiacales.pdb
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\SignosZodiacales\SignosZodiacales\obj\Debug\SignosZodiacales.csprojResolveAssemblyReference.cache
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\SignosZodiacales\SignosZodiacales\obj\Debug\SignosZodiacales.dll
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\SignosZodiacales\SignosZodiacales\obj\Debug\SignosZodiacales.pdb
